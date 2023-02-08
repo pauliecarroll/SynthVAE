@@ -23,9 +23,7 @@ _**Note:** No data, public or private are shared in this repository._
 ### Built With
 
 [![Python v3.8](https://img.shields.io/badge/python-v3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
-- [PyTorch v1.9.0](https://github.com/pytorch)
-- [SDV v0.13.1](https://github.com/sdv-dev/SDV)
-- [Opacus v0.14.0](https://github.com/pytorch/opacus)
+- [Multinet v0.1](https://pypi.org/project/multinet/)
 
 ### Getting Started
 
